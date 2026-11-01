@@ -54,3 +54,5 @@ job-skills-extraction-spacy/
 ## Observações e próximos passos
 
 Como próximos passos, vale anotar manualmente um conjunto de vagas para medir precision e recall, tratar variações de escrita com o PhraseMatcher em minúsculas, e treinar um modelo de NER do spaCy usando as marcações do EntityRuler como dados iniciais, para encontrar tecnologias que não estão no dicionário.
+
+Os resultados deste projeto podem ser melhores. O foco foi o aprendizado do conteúdo do bootcamp e não obter o melhor desempenho possível, por isso não foi feita uma busca exaustiva por hiperparâmetros, arquiteturas ou dados.
